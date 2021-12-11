@@ -1,0 +1,301 @@
+leader_traits = {
+	####副总统
+	taciturn_boss = {
+		random = no
+
+		#政治点数+0.05，稳定度+3%， 政治顾问花费-10%
+		political_power_gain = 0.05
+		stability_factor = 0.03
+		political_advisor_cost_factor = -0.1
+	}
+	cunning_progressive = {
+		random = no
+
+		#政治点数 +10%， 稳定度-2.5%， 
+		political_power_factor = 0.1
+		stability_factor = -0.025
+	}
+	devoted_conservative = {
+		random = no
+
+		#意识形态抵抗+35%，政治点数+0.05，稳定度-2.5%
+		drift_defence_factor = 0.35
+		political_power_gain = 0.05
+		stability_factor = -0.025
+
+	}
+	Military_Industry_Complex_tie_usa = {
+		name = Military_Industry_Complex_tie
+		random = no
+		political_power_gain = -0.25
+		production_speed_arms_factory_factor = 0.15
+		ai_focus_war_production_factor = 0.20
+	}
+	weird_scholar = {
+		random = no
+
+		#科研速度+3%，稳定度-2%
+		research_speed_factor = 0.03
+		stability_factor = -0.025
+
+	}
+	seasoned_politician = {
+		random = no
+
+		#政治点数+10%
+		political_power_factor = 0.1
+	}
+	usa_trait_georgia = {
+		random = no
+		
+	}
+	irascible_civil_right_activator = {
+		random = no
+
+		#稳定度-5%，政治点数+10%
+		stability_factor = -0.05
+		political_power_factor = 0.1
+	}
+	old_conservative = {
+		random = no
+
+		#稳定度+5%，战争支持度+5%，政治顾问消耗+20%
+		stability_factor = 0.05
+		war_support_factor = 0.05
+		political_advisor_cost_factor = 0.2
+
+	}
+	##############################
+	###国务卿
+	#############################
+	steady_interventionist = {
+		random = no
+
+		# 正当化战争目标时间-10%，防御战争对稳定度+7.5%，意识形态关系修正+25%，
+		#共产主义外交接纳度-10，法西斯主义外交接纳度-10
+		justify_war_goal_time = -0.1
+		defensive_war_stability_factor = 0.075
+		opinion_gain_monthly_same_ideology_factor = 0.25
+		communism_acceptance = -10
+		fascism_acceptance = -10
+		
+	}
+	international_democratic_defender = {
+		random = no
+
+		defensive_war_stability_factor = 0.1
+		opinion_gain_monthly_factor = 0.1
+		political_power_gain = -0.075
+		democratic_drift = 0.02
+		fascism_acceptance = -20
+		#防御战争对稳定度修正+10%，改善关系+10%，每日政治点数-0.075，
+		#民主主义支持+0.02，法西斯主义外交接纳度-20
+	}
+	cunning_negotiator = {
+		random = no
+
+		#贸易关系修正+15%，改善关系+10%,
+
+		trade_opinion_factor = 0.15
+		opinion_gain_monthly_factor = 0.1
+		intel_network_gain_factor = 0.1
+	}
+	shrewd_rigger = {
+
+		random = no
+		#
+		subversive_activites_upkeep = -0.15
+		root_out_resistance_effectiveness_factor= 0.1
+		trade_opinion_factor = 0.1
+		#贸易关系修正+10%
+	}
+	outstanding_speaker = {
+		random = no
+
+		#改善关系+25%，意识形态关系修正+25%
+		opinion_gain_monthly_factor = 0.25
+		opinion_gain_monthly_same_ideology_factor = 0.25
+	}
+	hawkish_diplomat = {
+		random = no
+		offensive_war_stability_factor = 0.1
+		justify_war_goal_time = -0.1
+		
+		#侵略战争对稳定度修正10%，正当化战争目标时间-10%
+	}
+	decolonization_advocator = {
+		random = no
+		opinion_gain_monthly_factor = -0.1
+		justify_war_goal_time = -0.1
+		communism_acceptance = 15
+		#改善关系-10%，正当化战争目标时间-10%，共产主义外交接纳度+15
+	}
+	brilliant_strategist_political = {
+		random = no
+		
+		#改善关系+10%
+		opinion_gain_monthly_factor = 0.1
+	}
+	##############################
+	###内阁核心成员1
+	#############################
+	agriculture_reformist = {
+		random = no
+		consumer_goods_factor = -0.015
+		stability_factor = 0.05
+		# 生活消费品-1.5%，稳定度+5%
+	}
+	tenacious_activist = {
+		random = no
+		political_power_factor = -0.05
+		war_support_factor = 0.05
+		
+		#政治点数-5%，战争支持度+5%，民主主义支持度+0.02
+	}
+	folksy_politician = {
+		random = no
+		war_support_factor = 0.05
+		political_power_gain = 0.05
+		#战争支持度+5%，政治点数获取+0.05
+	}
+	firm_rightist_politican = {
+
+		random = no
+		communism_drift = -0.025
+		production_factory_max_efficiency_factor = 0.05
+		# 康米支持度drift-0.025，生产效率上限+5%
+	}
+	grim_executor = {
+		random = no
+		political_power_cost = -0.05
+		war_support_factor = 0.05
+		#政治点数消耗-0.05,战争支持度+5%
+	}
+ 
+	##############################
+	###内阁核心成员2
+	#############################
+	industrial_reformist = {
+		random = no
+
+		#稳定度+3%，生产效率增长+5%，生产效率保持+5%
+		stability_factor = 0.03
+		production_factory_efficiency_gain_factor = 0.05
+		line_change_production_efficiency_factor = 0.05
+		
+	}
+	southern_reformist = {
+		random = no
+
+		#基础设施建造速度+7.5%，稳定度+2%
+		production_speed_infrastructure_factor = 0.075
+		stability_factor = 0.02
+	}
+
+	hardliner_southerner = {
+
+		random = no
+		#稳定度-2.5%，战争支持度+3%，政治点数获得+0.05
+		stability_factor = -0.025
+		war_support_factor = 0.03
+		political_power_gain = 0.05
+	}
+	relief_expert = {
+		random = no
+
+		#消费品2.5%，稳定度+8%
+		consumer_goods_factor = 0.025
+		stability_factor = 0.08
+	}
+	oppotunist = {
+		random = no
+		#政治点数+7.5%，稳定度-2.5%
+		political_power_factor = 0.075
+		stability_factor = -0.025
+	}
+	industrial_reformist_2 = {
+		random = no
+		
+		#稳定度+3%，生活消费品-2.5%
+		stability_factor = 0.03
+		consumer_goods_factor = -0.025
+	}
+
+	investment_manager = {
+		random = no
+		#民工建造+5%，军工建造+5%
+		production_speed_industrial_complex_factor = 0.05
+		production_speed_arms_factory_factor = 0.05
+	}
+
+	##############################
+	###政治盟友1
+	#############################
+	labour_union_alliance = {
+		random = no
+
+		#稳定度+5%，工厂产出+2.5%
+		stability_factor = 0.05
+		industrial_capacity_factory = 0.025
+	}
+	USA_trait_new_york = {
+		random = no		
+	}
+	public_works_manager = {
+		random = no
+
+		#基础设施建造速度+7.5%，生产效率初始+2.5%
+		production_speed_infrastructure_factor = 0.075
+		production_factory_start_efficiency_factor = 0.025
+	}
+
+	militant_governor = {
+
+		random = no
+		# 训练时间-10%，适役人口修正5%，工厂产出-2.5%
+		training_time_factor = -0.1
+		conscription_factor = 0.05
+		industrial_capacity_factory = -0.025
+	}
+	rising_star = {
+		random = no
+
+		#稳定度-2.5%，政治点数+5%
+		stability_factor = -0.025
+		political_power_factor = 0.05
+	}
+	political_machine_organizer = {
+		random = no
+		#稳定度+5%，政治点数-0.05，生活消费品-1.5%
+		stability_factor = 0.05
+		political_power_gain = -0.05
+		consumer_goods_factor = -0.015
+	}
+	usa_trait_oklahoma = {
+		random = no
+
+	}
+	##############################
+	###政治盟友2
+	#############################
+	uncompromising_politician = {
+		random = no
+
+		#政治点数-5%，建造速度+5%
+		political_power_factor = -0.05
+		production_speed_infrastructure_factor = 0.05
+	}
+	USA_trait_california = {
+		random = no
+
+	}
+	faction_leader = {
+
+		random = no
+		#  经济法案、贸易法案、征兵法案 -10%
+		economy_cost_factor = -0.1
+		trade_laws_cost_factor = -0.1
+		mobilization_laws_cost_factor = -0.1
+	}
+
+}

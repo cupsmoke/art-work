@@ -1,0 +1,7 @@
+﻿l_english:
+ ###idea
+ SOV_political_struggle_category:0 "政治形势界面"
+ SOV_nkvd_influence_category:0 "NKVD影响力"
+ SOV_nkvd_influence_category_desc:0 "随着肃反运动的持续进行，NKVD在[SOV.GetName]的影响力越来越大，这有助于我们迅速推进对反革命分子的甄别和抓捕，但另一方面，掌握过大权力的NKVD对于我们也是一个隐患。\n\n\nNKVD的影响力："
+ SOV_nkvd_influence:0 "NKVD影响力"
+

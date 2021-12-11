@@ -1,0 +1,8 @@
+spriteTypes = {
+	##新闻
+	spriteType = {
+		name = "GFX_idea_slot_power_one"
+		textureFile = "gfx/interface/officer_corp/select_advisor.dds"
+	}
+
+} 

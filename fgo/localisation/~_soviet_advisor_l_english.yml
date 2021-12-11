@@ -1,0 +1,42 @@
+﻿l_english:
+ ###idea
+ SOV_nkvd_yagoda:0 "亨里希·亚戈达"
+ SOV_nkvd_yezhov:0 "尼古拉·叶若夫"
+ SOV_nkvd_beria:0 "拉夫连季·"
+ SOV_zinoviev_po:0 "格列高利·季诺维耶夫"
+ SOV_kamenev_po:0 "列夫·加米涅夫"
+ SOV_voroshilov_po:0 "克利缅特·伏罗希洛夫"
+ SOV_kalinin_po:0 "米哈伊尔·加里宁"
+ SOV_rykov_po:0 "阿列克谢·李可夫"
+ SOV_tukhachevsky_po:0 "米哈伊尔·图哈切夫斯基"
+
+ SOV_lazar_kaganovich:0 "拉扎尔·卡冈诺维奇"
+ SOV_vyacheslav_molotov:0 "维亚切斯拉夫·莫洛托夫"
+ SOV_andrei_zhdanov:0 "安德烈·日丹诺夫"
+ SOV_anastas_mikoyan:0 "阿纳斯塔斯·米高扬"
+ SOV_sergo_ordzhonikidze:0 "谢尔戈·奥尔忠尼启则"
+ SOV_georgy_malenkov:0 "格奥尔基·马林科夫"
+ SOV_nikita_khrushchev:0 "尼基塔·赫鲁晓夫"
+ SOV_nikolai_bulganin:0 "尼古拉·布尔加宁"
+ SOV_mikhail_suslov:0 "米哈伊·苏斯洛夫"
+ SOV_alexei_kosygin:0 "阿列克谢·柯西金"
+ SOV_nikolai_voznesensky:0 "尼古拉·沃兹涅先斯基"
+ SOV_karl_radek:0 "卡尔·拉狄克"
+
+ SOV_vasily_blokhin:0 "瓦西里·布洛欣"
+ SOV_nadezhda_krupskaya:0 "娜杰日达·克鲁普斯卡娅"
+ SOV_alexandra_kollontai:0 "亚历山德拉·柯伦泰"
+ SOV_filipp_goloshchyokin:0 "菲利普·戈洛什乔金"
+ SOV_viktor_abakumov:0 "维克托·阿巴库莫夫"
+ SOV_pavel_sudoplatov:0 "帕维尔·苏杜普拉图夫"
+
+
+
+ ##tooltip
+ SOV_increase_zinoviev_tooltip:0 "§B季诺维也夫影响力上升§!"
+ SOV_increase_kamenev_tooltip:0 "§B加米涅夫影响力上升§!"
+ SOV_increase_purged_tooltip:0 "§R肃反的影响加深§!"
+ SOV_reduce_purged_tooltip:0 "§G减轻肃反的影响§!"
+ SOV_purge_in_army_tt:0 "§R肃反运动深入军队§!"
+ SOV_increase_nkvd_tooltip:0 "§O强化nkvd§!"
+ SOV_reduce_nkvd_tooltip:0 "§O削弱nkvd§!"

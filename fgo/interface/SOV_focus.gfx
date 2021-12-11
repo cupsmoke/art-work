@@ -1,0 +1,350 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_focus_SOV_bloc_rights_troskyites"
+		texturefile = "gfx/interface/goals/focus_SOV_bloc_rights_troskyites.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_new_purge"
+		texturefile = "gfx/interface/goals/focus_SOV_new_purge.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_1"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_1.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_2"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_2.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_trotskyist_center"
+		texturefile = "gfx/interface/goals/focus_SOV_trotskyist_center.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_zinovyevite_center"
+		texturefile = "gfx/interface/goals/focus_SOV_zinovyevite_center.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_marx_engels_lenin_stalin"
+		texturefile = "gfx/interface/goals/focus_SOV_marx_engels_lenin_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_3"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_3.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_4"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_4.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_lenin"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_lenin.png"
+	}
+	SpriteType = { 
+		name = "GFX_focus_SOV_fist_snake"
+		texturefile = "gfx/interface/goals/focus_SOV_fist_snake.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_nkvd_shot"
+		texturefile = "gfx/interface/goals/focus_SOV_nkvd_shot.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_constitution"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_constitution.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_military_conspiracy"
+		texturefile = "gfx/interface/goals/focus_SOV_military_conspiracy.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_kaganovich"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_kaganovich.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_molotov"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_molotov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_zhdanov"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_zhdanov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_malenkov"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_malenkov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_stalina"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_stalina.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_voroshilov"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_voroshilov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary_yezhov"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary_yezhov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_apostles_of_stalin"
+		texturefile = "gfx/interface/goals/focus_SOV_apostles_of_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_death_of_stalin"
+		texturefile = "gfx/interface/goals/focus_SOV_death_of_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stakhanovite_movement"
+		texturefile = "gfx/interface/goals/focus_SOV_stakhanovite_movement.png"
+	}
+
+	SpriteType = {
+		name = "GFX_focus_SOV_chairman_trotsky"
+		texturefile = "gfx/interface/goals/focus_SOV_chairman_trotsky.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_chairman_tukhachevsky"
+		texturefile = "gfx/interface/goals/focus_SOV_chairman_tukhachevsky.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_nkvd_rule"
+		texturefile = "gfx/interface/goals/focus_SOV_nkvd_rule.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_secretary_savinkov"
+		texturefile = "gfx/interface/goals/focus_SOV_secretary_savinkov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_secretary_yagoda"
+		texturefile = "gfx/interface/goals/focus_SOV_secretary_yagoda.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_secretary_yezhov"
+		texturefile = "gfx/interface/goals/focus_SOV_secretary_yezhov.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalinism_secretary"
+		texturefile = "gfx/interface/goals/focus_SOV_stalinism_secretary.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_grandpa_kalinin"
+		texturefile = "gfx/interface/goals/focus_SOV_grandpa_kalinin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_light_cat_tail"
+		texturefile = "gfx/interface/goals/focus_SOV_light_cat_tail.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_prime_minister_kamenev"
+		texturefile = "gfx/interface/goals/focus_SOV_prime_minister_kamenev.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_secretary_bukharin"
+		texturefile = "gfx/interface/goals/focus_SOV_secretary_bukharin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_secretary_trotsky"
+		texturefile = "gfx/interface/goals/focus_SOV_secretary_trotsky.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_secretary_zinoviev"
+		texturefile = "gfx/interface/goals/focus_SOV_secretary_zinoviev.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_zinoviev_kamenev"
+		texturefile = "gfx/interface/goals/focus_SOV_zinoviev_kamenev.png"
+	}
+	##
+	SpriteType = {
+		name = "GFX_focus_SOV_against_stalin"
+		texturefile = "gfx/interface/goals/focus_SOV_against_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_military_officer"
+		texturefile = "gfx/interface/goals/focus_SOV_military_officer.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_palace_of_soviets"
+		texturefile = "gfx/interface/goals/focus_SOV_palace_of_soviets.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_socialism_politics"
+		texturefile = "gfx/interface/goals/focus_SOV_socialism_politics.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_train_travel"
+		texturefile = "gfx/interface/goals/focus_SOV_train_travel.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_uphold_workers_peasants_union"
+		texturefile = "gfx/interface/goals/focus_SOV_uphold_workers_peasants_union.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_voroshilov_sharpshooter"
+		texturefile = "gfx/interface/goals/focus_SOV_voroshilov_sharpshooter.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_voroshilov_stalin_parade"
+		texturefile = "gfx/interface/goals/focus_SOV_voroshilov_stalin_parade.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_workers_peasants_revolution"
+		texturefile = "gfx/interface/goals/focus_SOV_workers_peasants_revolution.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_world_revolution"
+		texturefile = "gfx/interface/goals/focus_SOV_world_revolution.png"
+	}
+	#
+	SpriteType = {
+		name = "GFX_focus_SOV_military_purge"
+		texturefile = "gfx/interface/goals/focus_SOV_military_purge.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_military_reform"
+		texturefile = "gfx/interface/goals/focus_SOV_military_reform.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_pravda_of_stalin"
+		texturefile = "gfx/interface/goals/focus_SOV_pravda_of_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_pravda_of_truth"
+		texturefile = "gfx/interface/goals/focus_SOV_pravda_of_truth.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_red_banner_labour"
+		texturefile = "gfx/interface/goals/focus_SOV_red_banner_labour.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_red_star_order"
+		texturefile = "gfx/interface/goals/focus_SOV_red_star_order.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_tomb_of_unknown_soldier"
+		texturefile = "gfx/interface/goals/focus_SOV_tomb_of_unknown_soldier.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_voroshilov_overlook"
+		texturefile = "gfx/interface/goals/focus_SOV_voroshilov_overlook.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_zinoviev_speech"
+		texturefile = "gfx/interface/goals/focus_SOV_zinoviev_speech.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_zinoviev_work"
+		texturefile = "gfx/interface/goals/focus_SOV_zinoviev_work.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_emphasis_on_workers_interests"
+		texturefile = "gfx/interface/goals/focus_SOV_emphasis_on_workers_interests.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_ruling_on_traitors"
+		texturefile = "gfx/interface/goals/focus_SOV_ruling_on_traitors.png"
+	}
+
+	SpriteType = {
+		name = "GFX_focus_SOV_guardian_war"
+		texturefile = "gfx/interface/goals/focus_SOV_guardian_war.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_new_soviet_woman"
+		texturefile = "gfx/interface/goals/focus_SOV_new_soviet_woman.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_progress_work"
+		texturefile = "gfx/interface/goals/focus_SOV_progress_work.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_reduce_nkvd_power"
+		texturefile = "gfx/interface/goals/focus_SOV_reduce_nkvd_power.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_red_horse"
+		texturefile = "gfx/interface/goals/focus_SOV_red_horse.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_traditional_family"
+		texturefile = "gfx/interface/goals/focus_SOV_traditional_family.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_anti_nationalist_propaganda"
+		texturefile = "gfx/interface/goals/focus_SOV_anti_nationalist_propaganda.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_nuclear"
+		texturefile = "gfx/interface/goals/focus_SOV_nuclear.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_soviet_unions"
+		texturefile = "gfx/interface/goals/focus_SOV_soviet_unions.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_navy_soldiers"
+		texturefile = "gfx/interface/goals/focus_SOV_navy_soldiers.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_young_generals"
+		texturefile = "gfx/interface/goals/focus_SOV_young_generals.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_bukharin_democracy"
+		texturefile = "gfx/interface/goals/focus_SOV_bukharin_democracy.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_expand_influence"
+		texturefile = "gfx/interface/goals/focus_SOV_expand_influence.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_find_trotsky_idea"
+		texturefile = "gfx/interface/goals/focus_SOV_find_trotsky_idea.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_five_years_plan_1"
+		texturefile = "gfx/interface/goals/focus_SOV_five_years_plan_1.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_revolutionary_recruitment_campaign"
+		texturefile = "gfx/interface/goals/focus_SOV_revolutionary_recruitment_campaign.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_service_for_the_union"
+		texturefile = "gfx/interface/goals/focus_SOV_service_for_the_union.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_stalin_democracy"
+		texturefile = "gfx/interface/goals/focus_SOV_stalin_democracy.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_work_hard"
+		texturefile = "gfx/interface/goals/focus_SOV_work_hard.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_develop_siberia"
+		texturefile = "gfx/interface/goals/focus_SOV_develop_siberia.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_help_with_agriculture"
+		texturefile = "gfx/interface/goals/focus_SOV_help_with_agriculture.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_limit_nkvd"
+		texturefile = "gfx/interface/goals/focus_SOV_limit_nkvd.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_mechanized_collective_farm"
+		texturefile = "gfx/interface/goals/focus_SOV_mechanized_collective_farm.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_production_incentive_scheme"
+		texturefile = "gfx/interface/goals/focus_SOV_production_incentive_scheme.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_revolutionary_military_council"
+		texturefile = "gfx/interface/goals/focus_SOV_revolutionary_military_council.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_SOV_revolutionary_policeman"
+		texturefile = "gfx/interface/goals/focus_SOV_revolutionary_policeman.png"
+	}
+} 

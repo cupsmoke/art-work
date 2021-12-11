@@ -1,0 +1,79 @@
+﻿l_english:
+###
+###领袖
+##变量
+ 
+ head_of_state:0"§O国家元首§!"   
+ head_of_government:0"§O政府首脑§!"   
+ head_of_army:0"§O三军统帅§!"    
+##power one
+ Jeanne_power_one:0"救国圣女"   
+ Marie_queen_power_one:0"摄政王后"   
+###tooltip
+##_desc
+#内阁
+ FRA_Marie_Antoinette:0"玛丽·安托瓦内特"
+ FRA_Jeanne_dArc:0"圣女贞德"
+ #FRA_Jeanne_dArc_desc:0"让娜·达尔克，通称圣女贞德，救国的圣女，带领法兰西走出困境的女子。" 
+#####国策######
+ FRA_pierre_laval_prime:0"赖伐尔首相"
+ FRA_Albert_Sarraut_prime:0"阿尔贝特·萨罗首相"
+ FRA_Laval_cut_spending:0"削减公共开支"
+ FRA_Laval_protect_agriculture:0"保护农业"
+ FRA_Laval_nation_unity:0"民族团结政府"
+ FRA_Laval_support_right_wings:0"支持右翼团体"
+ FRA_Laval_collect_money:0"发行国库券"
+ FRA_Laval_support_enterprises:0"补贴企业"
+###########
+ FRA_popular_front_government:0"布鲁姆首相"
+ FRA_connect_the_unions:0"总工会" 
+ FRA_womens_suffrage_f:0"妇女选举权"
+ FRA_expand_compulsory_education:0"义务教育"
+ FRA_ban_the_leagues_f:0"查禁联盟" 
+ FRA_strength_popular_front:0"弥合人民阵线"
+ FRA_break_popular_front:0"人民阵线分裂"
+ FRA_national_bloc_government:0"弗兰丁首相"
+ FRA_freedom_front_f:0"结成自由阵线"
+ FRA_bring_in_technocrats:0"引入技术官僚"
+ FRA_break_up_union:0"分裂工会"
+ FRA_ban_communism_f:0"共产主义非法"
+ FRA_up_with_jean_darc_f:0"颂扬圣女贞德"  
+ FRA_up_with_jean_darc_surely:0"“颂扬圣女贞德”"
+########
+ FRA_set_national_wheat_board:0"设立国家小麦局"
+ FRA_reorganize_bank_France:0"改组法兰西银行"
+ FRA_lower_taxes:0"降低企业利润税"
+ FRA_support_business:0"实行商业补贴"
+ FRA_get_wealth_moving:0"让财富流动"
+ FRA_invest_in_small_bussinesses:0"投资小微企业"
+ FRA_cut_government_spending:0"削减政府支出"
+ FRA_exchange_control:0"实行兑换控制"
+ FRA_raise_tariffs:0"提高关税"
+ FRA_limit_monopoly:0"限制垄断"
+############奥尔良
+ 
+ FRA_orleanist_restoration_f:0"法兰西真正的国王"
+ FRA_support_from_military:0"来自军队的支持"
+ FRA_ban_Republicans:0"查禁共和派"
+ FRA_connect_with_Pope:0"与教皇和解"
+ FRA_crown_for_king:0"加冕仪式"
+ 
+ FRA_politics_first:0"政治至上"
+ FRA_anti_france:0"铲除“反法兰西”"
+ FRA_God_eldest_daughter:0"宣布国教"
+ FRA_order_idea_classicism:0"秩序 理想 古典主义"
+ FRA_war_to_corruption:0"向腐朽开战"
+ FRA_real_country:0"真实之国"
+ FRA_regional_power:0"地区权力"
+ FRA_authority_high_freedom_beneath:0"威权在上自由在下"
+ 
+ 
+ FRA_constitutional_monarch:0"立宪君主"
+ FRA_criticize_Maurrassisme:0"批判莫拉斯主义"
+ FRA_new_friends:0"新的盟友"
+ FRA_kingdom_rebirth:0"王国新生"
+
+####决议
+
+ 
+ 

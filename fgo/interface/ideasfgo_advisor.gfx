@@ -1,0 +1,273 @@
+spriteTypes = {
+#法国	
+	#贞德
+	SpriteType = {
+		name = "GFX_idea_FRA_Jeanne"
+		texturefile = "gfx/interface/advisors/FRA/FRA_Jeanne.dds"		
+	}	
+	#玛丽
+	SpriteType = {
+		name = "GFX_idea_FRA_Marie_queen"
+		texturefile = "gfx/interface/advisors/FRA/FRA_Marie_queen.dds"		
+	}	
+	#吉尔·德·雷
+	SpriteType = {
+		name = "GFX_idea_FRA_Gilles"
+		texturefile = "gfx/interface/advisors/FRA/FRA_Gilles.dds"		
+	}
+	#莫扎特
+	SpriteType = {
+		name = "GFX_idea_FRA_Wolfgang_amadeus_mozart"
+		texturefile = "gfx/interface/advisors/FRA/FRA_Wolfgang_amadeus_mozart.dds"		
+	}	
+	#蓝胡子
+	SpriteType = {
+		name = "GFX_idea_FRA_Gilles_alter"
+		texturefile = "gfx/interface/advisors/FRA/FRA_Gilles_alter.dds"		
+	}	
+	#迪昂
+	SpriteType = {
+		name = "GFX_idea_FRA_DEon"
+		texturefile = "gfx/interface/advisors/FRA/FRA_DEon.dds"		
+	}
+	#拿破仑
+	SpriteType = {
+		name = "GFX_idea_FRA_Napoleone" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Napoleone.dds"		
+	}
+	#玛尔达
+	SpriteType = {
+		name = "GFX_idea_FRA_Martha" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Martha.dds"		
+	}	
+	#桑松
+	SpriteType = {
+		name = "GFX_idea_FRA_Sanson" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Sanson.dds"		
+	}	
+	#亚历山大·仲马
+	SpriteType = {
+		name = "GFX_idea_FRA_Alexandre_Dumas" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Alexandre_Dumas.dds"		
+	}	
+	#弗朗索瓦·普勒拉蒂
+	SpriteType = {
+		name = "GFX_idea_FRA_Plerati" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Plerati.dds"		
+	}
+	#玛丽皇后·泳装
+	SpriteType = {
+		name = "GFX_idea_FRA_Marie_water" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Marie_water.dds"		
+	}
+	#法夫纳
+	SpriteType = {
+		name = "GFX_idea_FRA_Fafnir" 
+		texturefile = "gfx/interface/advisors/FRA/FRA_Fafnir.dds"		
+	}	
+#丹麦	
+	#安徒生
+	SpriteType = {
+		name = "GFX_idea_DEN_hans_christian_andersen"
+		texturefile = "gfx/interface/advisors/DEN/DEN_hans_christian_andersen.dds"		
+	}
+##英国	
+	SpriteType = {#巴贝奇
+		name = "GFX_idea_ENG_Babbage"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Babbage.dds"		
+	}
+	SpriteType = {#德雷克
+		name = "GFX_idea_ENG_Drake"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Drake.dds"		
+	}
+	SpriteType = {#梅林
+		name = "GFX_idea_ENG_Merlin"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Merlin.dds"		
+	}
+	SpriteType = {#布狄卡
+		name = "GFX_idea_ENG_Boudica"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Boudica.dds"		
+	}
+	SpriteType = {#莎士比亚
+		name = "GFX_idea_ENG_Shakespeare"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Shakespeare.dds"		
+	}	
+	SpriteType = {#罗宾汉
+		name = "GFX_idea_ENG_Robin_Hood"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Robin_Hood.dds"		
+	}	
+	SpriteType = {#南丁格尔
+		name = "GFX_idea_ENG_Nightingale"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Nightingale.dds"		
+	}	
+	SpriteType = {#福尔摩斯
+		name = "GFX_idea_ENG_Holmes"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Holmes.dds"		
+	}
+	SpriteType = {#莫里亚蒂
+		name = "GFX_idea_ENG_Moriarty"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Moriarty.dds"		
+	}
+	SpriteType = {#格蕾
+		name = "GFX_idea_ENG_Gray"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Gray.dds"		
+	}
+	SpriteType = {#摩根
+		name = "GFX_idea_ENG_Morgan"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Morgan.dds"		
+	}	
+
+	SpriteType = {#阿格规文
+		name = "GFX_idea_ENG_Agravain"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Agravain.dds"		
+	}
+	SpriteType = {#加雷斯
+		name = "GFX_idea_ENG_Gareth"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Gareth.dds"		
+	}
+	SpriteType = {#兰斯洛特
+		name = "GFX_idea_ENG_Lancelot"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Lancelot.dds"		
+	}
+	SpriteType = {#崔斯坦
+		name = "GFX_idea_ENG_Tristan"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Tristan.dds"		
+	}
+	SpriteType = {#高文
+		name = "GFX_idea_ENG_Gawain"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Gawain.dds"		
+	}
+	SpriteType = {#莫德雷德
+		name = "GFX_idea_ENG_Mordred"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Mordred.dds"		
+	}
+	SpriteType = {#莫德雷德·海
+		name = "GFX_idea_ENG_Mordred_navy"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Mordred_navy.dds"		
+	}
+	SpriteType = {#亨利·杰基尔
+		name = "GFX_idea_ENG_Henry_Jekyll"
+		texturefile = "gfx/interface/advisors/ENG/ENG_Henry_Jekyll.dds"		
+	}		
+##美国	
+	SpriteType = {#特斯拉
+		name = "GFX_idea_USA_Tesla"
+		texturefile = "gfx/interface/advisors/USA/USA_Tesla.dds"		
+	}
+	SpriteType = {#爱迪生
+		name = "GFX_idea_USA_Edison"
+		texturefile = "gfx/interface/advisors/USA/USA_Edison.dds"		
+	}	
+###罗马	
+	SpriteType = {#凯撒
+		name = "GFX_idea_ITA_Caesar"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Caesar.dds"		
+	}
+	SpriteType = {#克丽奥佩特拉
+		name = "GFX_idea_ITA_Cleopatra"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Cleopatra.dds"		
+	}
+	SpriteType = {#达芬奇
+		name = "GFX_idea_ITA_da_Vinci"
+		texturefile = "gfx/interface/advisors/ITA/ITA_da_Vinci.dds"		
+	}
+	SpriteType = {#乔尔乔斯
+		name = "GFX_idea_ITA_Georgios"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Georgios.dds"		
+	}
+	SpriteType = {#墨索里尼 
+		name = "GFX_idea_ITA_Mussolini"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Mussolini.dds"		
+	}
+	SpriteType = {#斯巴达克斯
+		name = "GFX_idea_ITA_Spartacus"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Spartacus.dds"		
+	}	
+	SpriteType = {#卡里古拉
+		name = "GFX_idea_ITA_Caligula"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Caligula.dds"		
+	}	
+	SpriteType = {#安东尼奥·萨列里
+		name = "GFX_idea_ITA_Antonio_Salieri"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Antonio_Salieri.dds"		
+	}
+	SpriteType = {#奥威尔
+		name = "GFX_idea_ITA_eric_blair"
+		texturefile = "gfx/interface/advisors/ITA/ITA_eric_blair.dds"		
+	}
+	SpriteType = {#托洛茨基
+		name = "GFX_idea_ITA_leon_trotsky"
+		texturefile = "gfx/interface/advisors/ITA/ITA_leon_trotsky.dds"		
+	}	
+	SpriteType = {#李卜克内西
+		name = "GFX_idea_ITA_Karl_Liebknecht"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Karl_Liebknecht.dds"		
+	}	
+	SpriteType = {#庇护11
+		name = "GFX_idea_ITA_PiusXI_advisor"
+		texturefile = "gfx/interface/advisors/ITA/ITA_PiusXI_advisor.dds"		
+	}	
+	SpriteType = {#庇护12
+		name = "GFX_idea_ITA_PiusXII_advisor"
+		texturefile = "gfx/interface/advisors/ITA/ITA_PiusXII_advisor.dds"		
+	}
+	SpriteType = {#维内托国王
+		name = "GFX_idea_ITA_king_victor_emmanuel"
+		texturefile = "gfx/interface/advisors/ITA/ITA_king_victor_emmanuel.dds"		
+	}
+	SpriteType = {#阿斯特赖亚
+		name = "GFX_idea_ITA_Astraea"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Astraea.dds"		
+	}
+	SpriteType = {#恩里克·费米
+		name = "GFX_idea_ITA_Enrico_Fermi"
+		texturefile = "gfx/interface/advisors/ITA/ITA_Enrico_Fermi.dds"		
+	}	
+###希腊
+	SpriteType = {#阿斯克勒庇俄斯
+		name = "GFX_idea_GRE_Asclepius"
+		texturefile = "gfx/interface/advisors/GRE/GRE_Asclepius.dds"		
+	}
+
+####日本	
+	SpriteType = {#刑部姬
+		name = "GFX_idea_JAP_Osakabehime"
+		texturefile = "gfx/interface/advisors/JAP/JAP_Osakabehime.dds"		
+	}
+	SpriteType = {#明智光秀
+		name = "GFX_idea_JAP_Akechi_Mitsuhide" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Akechi_Mitsuhide.dds"		
+	}	
+	SpriteType = {#柳生宗矩
+		name = "GFX_idea_JAP_Yagyu_Munenori" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Yagyu_Munenori.dds"		
+	}	
+	SpriteType = {#长尾景虎
+		name = "GFX_idea_JAP_Nagao_Kagetora" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Nagao_Kagetora.dds"		
+	}	
+	SpriteType = {#阎魔亭
+		name = "GFX_idea_JAP_Enma_Tei" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Enma_Tei.dds"		
+	}		
+	SpriteType = {#俵藤太
+		name = "GFX_idea_JAP_Tawara_Touta" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Tawara_Touta.dds"		
+	}		
+	SpriteType = {#织田信长
+		name = "GFX_idea_JAP_Oda_Nobunaga" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Oda_Nobunaga.dds"		
+	}	
+	SpriteType = {#坂田金时·骑兵
+		name = "GFX_idea_JAP_Sakata_Kintoki_rider" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Sakata_Kintoki_rider.dds"		
+	}	
+	SpriteType = {#茶茶
+		name = "GFX_idea_JAP_Chacha" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Chacha.dds"		
+	}		
+	SpriteType = {#茶茶
+		name = "GFX_idea_JAP_Tomoe_Gozen" 
+		texturefile = "gfx/interface/advisors/JAP/JAP_Tomoe_Gozen.dds"		
+	}
+}

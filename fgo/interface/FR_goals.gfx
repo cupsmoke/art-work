@@ -1,0 +1,62 @@
+spriteTypes = {		
+
+	SpriteType = {   
+		name = "GFX_focus_FRA_popular_front"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_popular_front.dds"
+	}		
+	SpriteType = {   
+		name = "GFX_focus_FRA_pierre_laval_prime"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_pierre_laval_prime.dds"
+	}		
+	SpriteType = {   
+		name = "GFX_focus_FRA_Pierre_Flandin_prime"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_Pierre_Flandin_prime.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_Albert_Sarraut_prime"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_Albert_Sarraut_prime.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_leon_blum_prime"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_leon_blum_prime.dds"
+	}
+
+ 
+	SpriteType = {   
+		name = "GFX_focus_FRA_french_dream"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_french_dream.dds"
+	}		
+	SpriteType = {   
+		name = "GFX_focus_FRA_economic_plan"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_economic_plan.dds"
+	}		
+	SpriteType = {   
+		name = "GFX_focus_FRA_get_wealth_moving"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_get_wealth_moving.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_exchange_control"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_exchange_control.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_raise_tariffs"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_raise_tariffs.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_economic_devolution"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_economic_devolution.dds"
+	}
+	
+	SpriteType = {   
+		name = "GFX_focus_FRA_Action_Francaise"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_Action_Francaise.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_Joan_of_Arc"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_Joan_of_Arc.dds"
+	}
+	SpriteType = {   
+		name = "GFX_focus_FRA_democracy"
+		texturefile = "gfx/interface/goals/FRA/focus_FRA_democracy.dds"
+	}
+}

@@ -1,0 +1,134 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_idea_USA_alf_landon"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_alf_landon.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_andrew_mellon"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_andrew_mellon.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_anthony_simon"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_anthony_simon.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_arthur_vandenberg"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_arthur_vandenberg.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_charles_dawes"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_charles_dawes.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_charles_mcnary"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_charles_mcnary.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_denver"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_denver.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_earl_warren"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_earl_warren.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_frank_knox"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_frank_knox.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_frank_merriam"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_frank_merriam.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_harold_stassen"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_harold_stassen.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_hebert_hoover"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_hebert_hoover.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_henry_cabot_lodge"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_henry_cabot_lodge.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_irving_ives"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_irving_ives.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_john_foster_dulles"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_john_foster_dulles.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_kenneth_wherry"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_kenneth_wherry.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_margaret_chase_smith"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_margaret_chase_smith.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_martin_dies"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_martin_dies.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_Mayer"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_Mayer.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_nelson_rockefeller"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_nelson_rockefeller.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_new_jersey"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_new_jersey.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_prescott_bush"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_prescott_bush.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_richard_nixon"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_richard_nixon.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_robert_la_follette"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_robert_la_follette.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_robert_mcnamara"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_robert_mcnamara.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_robert_taft"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_robert_taft.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_roy_chapin"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_roy_chapin.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_seattle"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_seattle.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_Silence"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_Silence.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_thomas_dewey"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_thomas_dewey.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_wallace_bennett"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_wallace_bennett.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_wendell_willkie"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_wendell_willkie.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_william_borah"
+		texturefile = "gfx/interface/ideas/USA/USA/USA_william_borah.png"
+	}
+}

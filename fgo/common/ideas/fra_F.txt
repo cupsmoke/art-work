@@ -1,0 +1,68 @@
+ideas = {
+	country = {
+
+		
+	}
+	power_one = {
+		##玛丽
+		FRA_Marie_Antoinette = {
+			picture = FRA_Marie_queen
+			allowed = {
+				original_tag = FRA
+			}
+			visible = { 
+								
+			}
+			available  = {
+
+			}  
+			modifier = {
+			#	consumer_goods_factor = 0.05
+			#	stability_factor = 0.05	
+			#	political_power_gain = 0.15
+			}
+			traits = {
+				head_of_state
+				Marie_queen_power_one
+			}
+			removal_cost = -1
+		}
+		#贞德ruler#
+		FRA_Jeanne_dArc = {
+			picture = FRA_Jeanne
+			allowed = {
+				original_tag = FRA
+			}
+			visible = {
+								
+			}
+			available  = {
+
+			}		
+			traits = { 
+				head_of_army 
+				Jeanne_power_one  
+			}
+			removal_cost = -1
+		}		
+		
+		
+		
+	}
+	political_advisor = {
+
+		
+	}	
+	army_chief = {
+	}
+	air_chief = {
+		
+	}
+	navy_chief = {
+	}
+	high_command = {
+
+
+	}
+
+}

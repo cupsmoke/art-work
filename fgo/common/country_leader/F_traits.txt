@@ -1,0 +1,60 @@
+leader_traits = {
+	##国家元首
+	head_of_state = {
+		random = no	
+		stability_factor = 0.05	
+	}
+	##政府首脑
+	head_of_government = {
+		political_power_gain = 0.1
+		random = no		
+	}
+	##三军统帅
+	head_of_army = {
+		random = no	
+		war_support_factor = 0.05	
+	} 
+	##内务部首脑
+	head_of_nkvd = {
+		random = no		
+		#sprite = 15
+		operative_slot = 1
+		foreign_subversive_activites = -0.20
+		drift_defence_factor = 0.50
+		agency_upgrade_time = -0.15
+	} 
+	##
+	SOV_prime_minister_trait = {
+		random = no	
+		political_power_gain = 0.1
+		#sprite = 12	
+	} 
+	SOV_secretary_trait = {
+		random = no		
+		political_power_factor = 0.05
+		#sprite = 12	
+	} 
+	SOV_chairman_trait = {
+		random = no		
+		war_stability_factor = 0.2
+		#sprite = 12	
+	} 
+
+	##################
+	##贞德
+	Jeanne_power_one = {
+		random = no
+		
+		war_support_factor = 0.1
+		stability_factor = 0.1
+	}	
+	#玛丽
+	Marie_queen_power_one = {
+		random = no
+		#sprite = 10
+		consumer_goods_factor = 0.05
+		stability_factor = 0.05	
+	}
+
+	
+}

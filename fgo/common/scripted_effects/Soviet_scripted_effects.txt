@@ -1,0 +1,262 @@
+
+
+SOV_increase_zinoviev = {
+	##提高季诺维也夫影响力
+	custom_effect_tooltip = SOV_increase_zinoviev_tooltip
+	hidden_effect = {
+		if = {
+			limit = { has_idea = SOV_kamenev_prevail_3 }
+			swap_ideas = {
+				remove_idea = SOV_kamenev_prevail_3
+				add_idea = SOV_kamenev_prevail_2
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_kamenev_prevail_2 }
+			swap_ideas = {
+				remove_idea = SOV_kamenev_prevail_2
+				add_idea = SOV_kamenev_prevail_1
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_kamenev_prevail_1 }
+			swap_ideas = {
+				remove_idea = SOV_kamenev_prevail_1
+				add_idea = SOV_zinoviev_kamenev_0
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_zinoviev_kamenev_0 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_kamenev_0
+				add_idea = SOV_zinoviev_prevail_1
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_zinoviev_prevail_1 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_prevail_1
+				add_idea = SOV_zinoviev_prevail_2
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_zinoviev_prevail_2 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_prevail_2
+				add_idea = SOV_zinoviev_prevail_3
+			}
+		}
+		else = {
+			country_event = {
+				##季诺维也夫过多
+				id = SOV_F.33
+				days = 3
+				random = 72
+			}
+		}
+		if = {
+			limit = {
+				OR = {
+					has_idea = SOV_zinoviev_prevail_1
+					has_idea = SOV_zinoviev_prevail_2
+					has_idea = SOV_zinoviev_prevail_3
+				}
+				has_country_leader = {
+					name = "Lev Kamenev"
+					ruling_only = yes
+				}
+			}
+			country_event = {
+				##季诺维也夫上
+				id = SOV_F.32
+				days = 3
+				random = 72
+			}
+		}
+	}
+}
+
+SOV_increase_kamenev = {
+	##提高加米涅夫影响力
+	custom_effect_tooltip = SOV_increase_kamenev_tooltip
+	hidden_effect = {
+		if = {
+			limit = { has_idea = SOV_zinoviev_prevail_3 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_prevail_3
+				add_idea = SOV_zinoviev_prevail_2
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_zinoviev_prevail_2 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_prevail_2
+				add_idea = SOV_zinoviev_prevail_1
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_zinoviev_prevail_1 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_prevail_1
+				add_idea = SOV_zinoviev_kamenev_0
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_zinoviev_kamenev_0 }
+			swap_ideas = {
+				remove_idea = SOV_zinoviev_kamenev_0
+				add_idea = SOV_kamenev_prevail_1
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_kamenev_prevail_1 }
+			swap_ideas = {
+				remove_idea = SOV_kamenev_prevail_1
+				add_idea = SOV_kamenev_prevail_2
+			}
+		}
+		else_if = {
+			limit = { has_idea = SOV_kamenev_prevail_2 }
+			swap_ideas = {
+				remove_idea = SOV_kamenev_prevail_2
+				add_idea = SOV_kamenev_prevail_3
+			}
+		}
+		else = {
+			country_event = {
+				##加米涅夫过多
+				id = SOV_F.34
+				days = 3
+				random = 72
+			}
+		}
+		if = {
+			limit = {
+				OR = {
+					has_idea = SOV_kamenev_prevail_1
+					has_idea = SOV_kamenev_prevail_2
+					has_idea = SOV_kamenev_prevail_3
+				}
+				has_country_leader = {
+					name = "Grigory Zinoviev"
+					ruling_only = yes
+				}
+
+			}
+			country_event = {
+				##加米涅夫上台
+				id = SOV_F.31
+				days = 3
+				random = 72
+			}
+		}
+	}
+}
+
+SOV_increase_purged = {
+	##大清洗加深
+	custom_effect_tooltip = SOV_increase_purged_tooltip
+	#hidden_effect = {
+	if = {
+		limit = { has_idea = SOV_great_purge_aftermath_1 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_1
+			add_idea = SOV_great_purge_aftermath_2
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_2 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_2
+			add_idea = SOV_great_purge_aftermath_3
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_3 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_3
+			add_idea = SOV_great_purge_aftermath_4
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_4 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_4
+			add_idea = SOV_great_purge_aftermath_5
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_5 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_5
+			add_idea = SOV_great_purge_aftermath_6
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_6 }
+		add_political_power = 0
+	}
+	else = {
+		add_ideas =SOV_great_purge_aftermath_1
+	}
+}
+
+SOV_reduce_purged = {
+	##大清洗减弱
+	custom_effect_tooltip = SOV_reduce_purged_tooltip
+	#hidden_effect = {
+	if = {
+		limit = { has_idea = SOV_great_purge_aftermath_6 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_6
+			add_idea = SOV_great_purge_aftermath_5
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_5 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_5
+			add_idea = SOV_great_purge_aftermath_4
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_4 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_4
+			add_idea = SOV_great_purge_aftermath_3
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_3 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_3
+			add_idea = SOV_great_purge_aftermath_2
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_2 }
+		swap_ideas = {
+			remove_idea = SOV_great_purge_aftermath_2
+			add_idea = SOV_great_purge_aftermath_1
+		}
+	}
+	else_if = {
+		limit = { has_idea = SOV_great_purge_aftermath_1 }
+		remove_ideas = SOV_great_purge_aftermath_1
+	}
+}
+
+SOV_increase_nkvd = {
+	##强化nkvd
+	custom_effect_tooltip = SOV_increase_nkvd_tooltip
+}
+
+SOV_reduce_nkvd = {
+	##削弱nkvd
+	custom_effect_tooltip = SOV_reduce_nkvd_tooltip
+}
+
+SOV_army_nkvd_effect= {
+	##军事化nkvd
+	#custom_effect_tooltip = SOV_reduce_nkvd_tooltip
+}

@@ -1,0 +1,94 @@
+test_category = {
+
+}
+SOV_debug_category = {
+	SOV_debug_nkvd = {
+		icon = eng_propaganda_campaigns
+		priority = 100
+		available = { 
+			#always = no
+		}
+		complete_effect = { 
+			set_country_flag = SOV_nkvd_victory
+			 
+			clr_country_flag = SOV_stalinism_victory
+			create_country_leader = {
+				name = "Boris Dzerzhinsky"
+				desc = "POLITICS_BORIS_SAVINKOV_DESC"
+				picture = "Portrait_SOV_Boris_Savinkov_nkvd.png"
+				expire = "1953.3.1"
+				ideology = stalinism
+				traits = {
+
+				}
+			}
+			mark_focus_tree_layout_dirty = yes
+		}
+	} 
+	SOV_debug_stalin = {  
+		icon = eng_propaganda_campaigns
+		priority = 100
+		available = {
+			#always = no
+		}
+		complete_effect = { 
+			set_country_flag = SOV_stalinism_victory
+			clr_country_flag = SOV_nkvd_victory
+			create_country_leader = {
+				name = "Lazar Kaganovich" 
+				desc = "POLITICS_NIKOLAI_YEZHOV_DESC"
+				picture = "Portrait_SOV_Vyacheslav_Molotov.png"
+				expire = "1953.3.1"
+				ideology = stalinism
+				traits = {
+
+				}
+			}
+			mark_focus_tree_layout_dirty = yes
+		}
+	}
+	SOV_debug_clr_flag = {
+		icon = eng_propaganda_campaigns
+		priority = 100
+		available = {
+			#always = no
+		}
+		complete_effect = { 
+			clr_country_flag = SOV_stalinism_victory
+			clr_country_flag = SOV_bukharin_victory
+			set_country_flag = SOV_zinoviev_kamenev_victory
+			#set_country_leader_description = { ideology = neutrality  desc = "DESC_KEY" }
+			mark_focus_tree_layout_dirty = yes
+		}
+	} 
+	SOV_debug_leader = {
+		icon = eng_propaganda_campaigns
+		priority = 100
+		available = {
+			#always = no
+		}
+		complete_effect = { 
+			create_country_leader = {
+				name = "Lazar Kaganovich" 
+				desc = "POLITICS_NIKOLAI_YEZHOV_DESC"
+				picture = "Portrait_SOV_Supreme_Soviet.png"
+				expire = "1953.3.1"
+				ideology = stalinism
+				traits = {
+
+				}
+			}
+			mark_focus_tree_layout_dirty = yes
+		}
+	}
+	SOV_debug_flags_2 = {
+		icon = eng_propaganda_campaigns
+		priority = 100
+		available = {
+			#always = no
+		}
+		complete_effect = { 
+			
+		}
+	}
+}

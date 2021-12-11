@@ -1,0 +1,262 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_report_event_sov_blyukher"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_blyukher.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_budyonny"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_budyonny.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_death_of_stalin"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_death_of_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_kalinin"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_kalinin.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_landau"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_landau.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_nkvd"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_nkvd.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_nkvd2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_nkvd2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_nkvd3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_nkvd3.png"
+	} 
+	SpriteType = {
+		name = "GFX_report_event_sov_parade"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_parade.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_purge_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_purge_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_purge_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_purge_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_purge_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_purge_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_purge_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_purge_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_red_army_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_red_army_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_red_army_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_red_army_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_bukharin"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_bukharin.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_ryutin"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_ryutin.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalinist_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalinist_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalinist_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalinist_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalin_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalin_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalin_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalin_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalin_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalin_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalin_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalin_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalin_beria"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalin_beria.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_stalin_yezhov"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_stalin_yezhov.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_st_stalin"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_st_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_support_stalin"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_support_stalin.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tank"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tank.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_5"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_5.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_6"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_6.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_7"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_7.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_8"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_8.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_9"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_9.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_trotsky_train"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_trotsky_train.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_5"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_5.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_6"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_6.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_7 拷贝"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_7 拷贝.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_7"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_7.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_tukhachevsky_family"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_tukhachevsky_family.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_voroshilov_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_voroshilov_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_voroshilov_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_voroshilov_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_voroshilov_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_voroshilov_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_voroshilov_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_voroshilov_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yagoda_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yagoda_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yagoda_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yagoda_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yagoda_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yagoda_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yagoda_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yagoda_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yegorov"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yegorov.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yezhov_1"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yezhov_1.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yezhov_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yezhov_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yezhov_3"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yezhov_3.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yezhov_4"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yezhov_4.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yezhov_5"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yezhov_5.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_yezhov_river"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_yezhov_river.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_zinoviev"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_zinoviev.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_zinoviev_2"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_zinoviev_2.png"
+	}
+	SpriteType = {
+		name = "GFX_report_event_sov_zinoviev_kamenev"
+		texturefile = "gfx/event_pictures/SOV/report_event_sov_zinoviev_kamenev.png"
+	}
+}
